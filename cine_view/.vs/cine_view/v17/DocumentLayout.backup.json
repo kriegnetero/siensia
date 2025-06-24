@@ -1,0 +1,196 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\isaac\\Desktop\\cine_view\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{42A53920-FEBA-4FE1-8B71-A02E32294A5A}|cine_view.vbproj|c:\\users\\isaac\\desktop\\cine_view\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{42A53920-FEBA-4FE1-8B71-A02E32294A5A}|cine_view.vbproj|solutionrelative:form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42A53920-FEBA-4FE1-8B71-A02E32294A5A}|cine_view.vbproj|c:\\users\\isaac\\desktop\\cine_view\\form11.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{42A53920-FEBA-4FE1-8B71-A02E32294A5A}|cine_view.vbproj|solutionrelative:form11.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42A53920-FEBA-4FE1-8B71-A02E32294A5A}|cine_view.vbproj|c:\\users\\isaac\\desktop\\cine_view\\form10.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{42A53920-FEBA-4FE1-8B71-A02E32294A5A}|cine_view.vbproj|solutionrelative:form10.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42A53920-FEBA-4FE1-8B71-A02E32294A5A}|cine_view.vbproj|c:\\users\\isaac\\desktop\\cine_view\\form9.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{42A53920-FEBA-4FE1-8B71-A02E32294A5A}|cine_view.vbproj|solutionrelative:form9.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42A53920-FEBA-4FE1-8B71-A02E32294A5A}|cine_view.vbproj|c:\\users\\isaac\\desktop\\cine_view\\form8.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{42A53920-FEBA-4FE1-8B71-A02E32294A5A}|cine_view.vbproj|solutionrelative:form8.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42A53920-FEBA-4FE1-8B71-A02E32294A5A}|cine_view.vbproj|c:\\users\\isaac\\desktop\\cine_view\\form7.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{42A53920-FEBA-4FE1-8B71-A02E32294A5A}|cine_view.vbproj|solutionrelative:form7.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42A53920-FEBA-4FE1-8B71-A02E32294A5A}|cine_view.vbproj|c:\\users\\isaac\\desktop\\cine_view\\form6.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{42A53920-FEBA-4FE1-8B71-A02E32294A5A}|cine_view.vbproj|solutionrelative:form6.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42A53920-FEBA-4FE1-8B71-A02E32294A5A}|cine_view.vbproj|c:\\users\\isaac\\desktop\\cine_view\\form5.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{42A53920-FEBA-4FE1-8B71-A02E32294A5A}|cine_view.vbproj|solutionrelative:form5.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42A53920-FEBA-4FE1-8B71-A02E32294A5A}|cine_view.vbproj|c:\\users\\isaac\\desktop\\cine_view\\form4.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{42A53920-FEBA-4FE1-8B71-A02E32294A5A}|cine_view.vbproj|solutionrelative:form4.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42A53920-FEBA-4FE1-8B71-A02E32294A5A}|cine_view.vbproj|c:\\users\\isaac\\desktop\\cine_view\\form3.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{42A53920-FEBA-4FE1-8B71-A02E32294A5A}|cine_view.vbproj|solutionrelative:form3.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42A53920-FEBA-4FE1-8B71-A02E32294A5A}|cine_view.vbproj|c:\\users\\isaac\\desktop\\cine_view\\form2.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{42A53920-FEBA-4FE1-8B71-A02E32294A5A}|cine_view.vbproj|solutionrelative:form2.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\isaac\\Desktop\\cine_view\\Form1.vb",
+              "RelativeDocumentMoniker": "Form1.vb",
+              "ToolTip": "C:\\Users\\isaac\\Desktop\\cine_view\\Form1.vb [Design]",
+              "RelativeToolTip": "Form1.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-06-15T20:15:36.79Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Form2.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\isaac\\Desktop\\cine_view\\Form2.vb",
+              "RelativeDocumentMoniker": "Form2.vb",
+              "ToolTip": "C:\\Users\\isaac\\Desktop\\cine_view\\Form2.vb [Design]",
+              "RelativeToolTip": "Form2.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-06-15T20:15:35.103Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Form3.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\isaac\\Desktop\\cine_view\\Form3.vb",
+              "RelativeDocumentMoniker": "Form3.vb",
+              "ToolTip": "C:\\Users\\isaac\\Desktop\\cine_view\\Form3.vb [Design]",
+              "RelativeToolTip": "Form3.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-06-15T20:15:33.815Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Form4.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\isaac\\Desktop\\cine_view\\Form4.vb",
+              "RelativeDocumentMoniker": "Form4.vb",
+              "ToolTip": "C:\\Users\\isaac\\Desktop\\cine_view\\Form4.vb [Design]",
+              "RelativeToolTip": "Form4.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-06-15T20:15:32.117Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form5.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\isaac\\Desktop\\cine_view\\Form5.vb",
+              "RelativeDocumentMoniker": "Form5.vb",
+              "ToolTip": "C:\\Users\\isaac\\Desktop\\cine_view\\Form5.vb [Design]",
+              "RelativeToolTip": "Form5.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-06-15T20:15:31.016Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form6.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\isaac\\Desktop\\cine_view\\Form6.vb",
+              "RelativeDocumentMoniker": "Form6.vb",
+              "ToolTip": "C:\\Users\\isaac\\Desktop\\cine_view\\Form6.vb [Design]",
+              "RelativeToolTip": "Form6.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-06-15T20:15:29.878Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form7.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\isaac\\Desktop\\cine_view\\Form7.vb",
+              "RelativeDocumentMoniker": "Form7.vb",
+              "ToolTip": "C:\\Users\\isaac\\Desktop\\cine_view\\Form7.vb [Design]",
+              "RelativeToolTip": "Form7.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-06-15T20:15:28.592Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form8.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\isaac\\Desktop\\cine_view\\Form8.vb",
+              "RelativeDocumentMoniker": "Form8.vb",
+              "ToolTip": "C:\\Users\\isaac\\Desktop\\cine_view\\Form8.vb [Design]",
+              "RelativeToolTip": "Form8.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-06-15T20:15:27.386Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form9.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\isaac\\Desktop\\cine_view\\Form9.vb",
+              "RelativeDocumentMoniker": "Form9.vb",
+              "ToolTip": "C:\\Users\\isaac\\Desktop\\cine_view\\Form9.vb [Design]",
+              "RelativeToolTip": "Form9.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-06-15T20:15:26.258Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form10.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\isaac\\Desktop\\cine_view\\Form10.vb",
+              "RelativeDocumentMoniker": "Form10.vb",
+              "ToolTip": "C:\\Users\\isaac\\Desktop\\cine_view\\Form10.vb [Design]",
+              "RelativeToolTip": "Form10.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-06-15T20:15:23.682Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form11.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\isaac\\Desktop\\cine_view\\Form11.vb",
+              "RelativeDocumentMoniker": "Form11.vb",
+              "ToolTip": "C:\\Users\\isaac\\Desktop\\cine_view\\Form11.vb [Design]",
+              "RelativeToolTip": "Form11.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-06-15T20:15:22.752Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
